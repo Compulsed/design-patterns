@@ -1,0 +1,4 @@
+# Output files generated from compiling applications
+*.exe
+*.out
+*.class
